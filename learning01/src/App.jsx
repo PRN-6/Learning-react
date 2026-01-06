@@ -7,11 +7,12 @@ import Age from './components/Age'
 import Test from './components/Text'
 import Navbar from './components/Navbar'
 import Themetoggle from './components/Themetoggle'
+import Usestate from './components/Usestate'
 
 const App = () => {
   return (
     <>
-      <Themetoggle/>
+      <Usestate/>
     </>
   )
 }
