@@ -8,11 +8,12 @@ import Test from './components/Text'
 import Navbar from './components/Navbar'
 import Themetoggle from './components/Themetoggle'
 import Usestate from './components/Usestate'
+import Useefect from './components/Useefect'
 
 const App = () => {
   return (
     <>
-      <Usestate/>
+      <Useefect/>
     </>
   )
 }
